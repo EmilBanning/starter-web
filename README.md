@@ -16,6 +16,8 @@ Deployed on any server or local file system
 
 ## How to contribute
 
+Please fork this repo and issue pull-request
+
 ## Copyright
 
 Copyright Git.Training
