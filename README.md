@@ -15,3 +15,7 @@ to get better at Git
 Deployed on any server or local file system
 
 ## How to contribute
+
+## Copyright
+
+Copyright Git.Training
