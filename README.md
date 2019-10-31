@@ -8,6 +8,10 @@ This is an example to explore and train different stuff in parts of the Git envi
 
 ## Purpose
 
+to get better at Git
+
 ## Deployment
+
+Deployed on any server or local file system
 
 ## How to contribute
